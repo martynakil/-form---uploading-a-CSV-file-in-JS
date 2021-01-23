@@ -16,7 +16,7 @@ The task was:
 - form validation
 
 
-Technology: HTML, CSS, JS
+Technology: HTML, CSS, JS, WEBPACK, NPM
 
 
 
