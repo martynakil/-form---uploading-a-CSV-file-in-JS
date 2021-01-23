@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title></title>
+  <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+
+<body>
+  <section class="panel">
+    <ul class="panel__excurions excursions">
+      <li class="excurions__item excurions__item--prototype" style="display: none;">
+        <header class="excursions__header">
+          <h2 class="excursions__title">City</h2>
+          <p class="excursions__description">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet
+            aliquam quam laboriosam quaerat temporibus dicta vitae maxime!
+            Nemo, nobis veritatis?
+          </p>
+        </header>
+        <form class="excursions__form">
+          <div class="excurions__field">
+            <label class="excursions__field-name excursions__field">
+              Adult: <span class="excursions__price excursions__price--adults">99</span>EUR x
+              <input class="excursions__field-input" name="adults" />
+            </label>
+          </div>
+          <div class="excurions__field">
+            <label class="excursions__field-name excursions__field">
+              Child: <span class="excursions__price excursions__price--adults">99</span>EUR x
+              <input class="excursions__field-input" name="children" />
+            </label>
+          </div>
+          <div class="excurions__field excurions__field--submit">
+            <input class="excursions__field-input excursions__field-input--submit" value="
+            add to order" type="submit" />
+          </div>
+        </form>
+      </li>
+    </ul>
+    <section class="panel__form">
+      <div class="panel__uploader uploader">
+        <label class="uploader__label">
+          Select the file to load the tour (accept .csv):
+          <input class="uploader__input" type="file" accept=".csv" />
+        </label>
+      </div>
+      <form class="panel__order order" novalidate>
+        <div class="order__total-price">
+          Total:
+          <span class="order__total-price-value">--</span>
+        </div>
+        <div class="order__field">
+          <label class="order__field-name">
+            First name and last name: <input class="order__field-input" name="name" />
+          </label>
+        </div>
+        <div class="order__field">
+          <label class="order__field-name">
+            Email <input class="order__field-input" name="email" />
+          </label>
+        </div>
+        <div class="order__field order__field--submit">
+          <input class="order__field-input order__field-submit" value="order" type="submit" />
+        </div>
+      </form>
+      <ul class="panel__summary summary">
+        <li class="summary__item summary__item--prototype" style="display: none;">
+          <h3 class="summary__title">
+            <span class="summary__name">Warsaw</span>
+            <strong class="summary__total-price">50 E
+            ur</strong>
+            <a href="" class="summary__btn-remove" title="delete">X</a>
+          </h3>
+          <p class="summary__prices">adults: 1 x 99PLN, children: 2 x 50PLN</p>
+        </li>
+      </ul>
+    </section>
+  </section>
+
+  <script src="./assets/js/script.js"></script>
+</body>
+
+</html>
