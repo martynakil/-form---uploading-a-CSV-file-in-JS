@@ -2,6 +2,8 @@
 
 
 This is the form by which we load the .CSV file with the excursions.
+
+
 (CSV file ? https://en.wikipedia.org/wiki/Comma-separated_values )
 
 
