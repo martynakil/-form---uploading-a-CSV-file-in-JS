@@ -51,7 +51,7 @@ The task was:
 
 ———>
 
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/-customer-panel-admin-panel-ordering-excursions-local-API)  :arrow_left:
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/-customer-panel-admin-panel-ordering-excursions-local-API)  :arrow_left: :arrow_left: :arrow_left:
 
 
 
