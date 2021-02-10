@@ -41,10 +41,8 @@ The task was:
 * and then "go live" is enough
 
 -----
-do you want to watch it live? 
-:arrow_right: :arrow_right:   [click me](https://github.com/martynakil/-customer-panel-admin-panel-ordering-excursions-local-API ) :arrow_left: :arrow_left:
 
-——-
+
 
 
 :computer: TECHNOLOGIES : HTML, CSS and  JS.
@@ -53,8 +51,8 @@ do you want to watch it live?
 
 ———>
 
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](
-▶️ :arrow_forward:   :arrow_backward:
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/-customer-panel-admin-panel-ordering-excursions-local-API)  :arrow_left:
+
 
 
 
