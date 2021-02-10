@@ -10,7 +10,6 @@
 * then the excursions will come
 * you can choose the excursion you want and enter the number of people 
   and go to the order
-* we can delete the note
 * the order shows what you ordered and how much it costs, you must enter the correct data
 
 
