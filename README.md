@@ -49,7 +49,7 @@ The task was:
 
 ------
 
-do you want to watch it live?📲 :calling:    :arrow_right: :arrow_right:   [click me!](https://martynakil.github.io/-form---uploading-a-CSV-file-in-JS/task-js-forms/)    :arrow_backward:    :arrow_backward:
+do you want to watch it live? 📲 :calling:    :arrow_right: :arrow_right:   [click me!](https://martynakil.github.io/-form---uploading-a-CSV-file-in-JS/task-js-forms/)     :arrow_backward:     :arrow_backward:
 
 
 ———>
