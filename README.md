@@ -49,12 +49,12 @@ The task was:
 
 ------
 
-do you want to watch it live? 📲 :calling:    :arrow_right: :arrow_right:   [click me!](https://martynakil.github.io/-form---uploading-a-CSV-file-in-JS/task-js-forms/)     :arrow_backward:     :arrow_backward:
+do you want to watch it live? 📲 :calling:    :arrow_right: :arrow_right:   [click me!](https://martynakiljan.github.io/-form---uploading-a-CSV-file-in-JS/task-js-forms/)     :arrow_backward:     :arrow_backward:
 
 
 ———>
 
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/-customer-panel-admin-panel-ordering-excursions-local-API)  :arrow_left: :arrow_left: :arrow_left:
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/-customer-panel-admin-panel-ordering-excursions-local-API)  :arrow_left: :arrow_left: :arrow_left:
 
 
 
